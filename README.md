@@ -45,7 +45,7 @@ In terms of returns, the following portfolios were most correlated with the S&P 
 
 The least correlated portfolio was **Algo 1**. Looking further into this portfolio, we can observe a rolling 60-day beta that rarely breaches 0.5 and occasionally goes negative vs. the S&P 500, further demonstrating the lack of correlation between this portfolio and the US stock market. 
 
-## Sharpe Ratios
+### Sharpe Ratios
 
 Considering the Sharpe ratios for each of these portfolios, we can see that the algorithmic portfolios generally offer a better return for the amount of risk. The **Algo 1** portfolio sits on top with an impressive Sharpe ratio of 1.38. The Berkshire Hathaway portfolio has the next highest, but generally the whale portfolios do not have great Sharpe ratios - both the Paulson & Co. and Tiger Global portfolios have negative Sharpe ratios. 
 
